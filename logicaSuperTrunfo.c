@@ -1,8 +1,6 @@
 #include <stdio.h>
 
-// Desafio Super Trunfo - Países
-// Tema 1 - Cadastro das cartas
-// Tema 2 - Comparação de cartas (nível novato)
+// Desafio Super Trunfo
 
 int main() {
 
